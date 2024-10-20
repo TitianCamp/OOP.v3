@@ -1,0 +1,5 @@
+﻿  Destructors.cpp
+  Main_file.cpp
+C:\Users\mihai\source\repos\OOP\OOP\Main_file.cpp(12,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  OOP.vcxproj -> C:\Users\mihai\source\repos\OOP\x64\Debug\OOP.exe
